@@ -1,2 +1,6 @@
 # jackett_filter
-Filter for max size of torrent from jackett rss feed
+Простенький скриптик для фильтрации RSS лент, которые отдает jackett по максимальному размеру торрента.
+
+Использование:
+
+
